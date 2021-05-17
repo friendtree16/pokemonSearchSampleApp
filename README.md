@@ -1,1 +1,1 @@
-# Pokemon Serch Sample App
+# Pokemon Search Sample App
